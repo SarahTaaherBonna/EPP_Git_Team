@@ -1,4 +1,5 @@
 Version 2.2 Conflict is bad!
+
 /********************
 Just to simulate content in a programming source code
 All statements starts as "Code C" in this file
